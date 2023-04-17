@@ -1,4 +1,4 @@
-[![MasterHead](https://www.webhopers.com/wp-content/uploads/2022/02/software-development-company-in-Karnal-1000x480.jpg)](https://rishavchanda.io)
+[![MasterHead](https://s40424.pcdn.co/in/wp-content/uploads/2022/07/machine-learning.jpg.webp)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sahil Kumar Pandey</h1>
 <h3 align="center">Mostly You Will See Me Coding DSA in JAVA |passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmM4NmQwOTcxY2I0OGY3Mzg2OGRlY2RlYjczNWVlNWE0ZDYyYmY4MCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
